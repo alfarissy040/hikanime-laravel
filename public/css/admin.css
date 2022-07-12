@@ -1,0 +1,13 @@
+.table-warper {
+    overflow-y: scroll;
+    max-height: 480px;
+}
+.checkbox__area {
+    border-radius: 25px !important;
+    justify-content: center;
+    cursor: pointer;
+    height: fixed;
+}
+.genre-checkbox {
+    display: hidden !important;
+}
